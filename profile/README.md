@@ -6,6 +6,4 @@ KidsAbility struggles with long wait times in their Early Years Speech Language 
 
 **General**
 
-🙋‍♀️ Members – Abraham Fakir, Anita Yang, Michael Capuano, Peter Majetic, Sage Hall 
-
 👩‍💻 Access - If you are looking to get access to the repo please request access by emailing [afakir@uwaterloo.ca](afakir@uwaterloo.ca)
